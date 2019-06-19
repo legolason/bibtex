@@ -1,0 +1,2243 @@
+@ARTICLE{2019MNRAS.485.4790S,
+       author = {{Shapovalova}, A.~I. and {Popovi{\'c}} and {}, L. {\v{C}}. and
+         {Afanasiev}, V.~L. and {Ili{\'c}} and {}, D. and {Kova{\v{c}}evi{\'c}} and
+         {}, A. and {Burenkov}, A.~N. and {Chavushyan}, V.~H.},
+        title = "{Long-term optical spectral monitoring of a changing-look active galactic nucleus NGC 3516 - I. Continuum and broad-line flux variability}",
+      journal = {\mnras},
+     keywords = {line: profiles, galaxies: active, quasars: emission lines, quasars: individual: NGC 3516, galaxies: Seyfert, Astrophysics - Astrophysics of Galaxies},
+         year = "2019",
+        month = "Jun",
+       volume = {485},
+       number = {4},
+        pages = {4790-4803},
+          doi = {10.1093/mnras/stz692},
+archivePrefix = {arXiv},
+       eprint = {1902.10845},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.4790S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2019arXiv190410912Y,
+       author = {{Yang}, Qian and {Shen}, Yue and {Chen}, Yu-Ching and {Liu}, Xin and
+         {Annis}, James and {Avila}, Santiago and {Bertin}, Emmanuel and
+         {Brooks}, David and {Buckley-Geer}, Elizabeth and
+         {Carnero Rosell}, Aurelio},
+        title = "{Spectral Variability of a Sample of Extreme Variability Quasars and Implications for the MgII Broad-line Region}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics},
+         year = "2019",
+        month = "Apr",
+          eid = {arXiv:1904.10912},
+        pages = {arXiv:1904.10912},
+archivePrefix = {arXiv},
+       eprint = {1904.10912},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2019arXiv190410912Y},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2019ApJS..241...34S,
+       author = {{Shen}, Yue and {Hall}, Patrick B. and {Horne}, Keith and
+         {Zhu}, Guangtun and {McGreer}, Ian and {Simm}, Torben and
+         {Trump}, Jonathan R. and {Kinemuchi}, Karen and {Brandt}, W.~N. and
+         {Green}, Paul J.},
+        title = "{The Sloan Digital Sky Survey Reverberation Mapping Project: Sample Characterization}",
+      journal = {\apjs},
+     keywords = {black hole physics, galaxies: active, line: profiles, quasars: general, surveys, Astrophysics - Astrophysics of Galaxies, Astrophysics - Instrumentation and Methods for Astrophysics},
+         year = "2019",
+        month = "Apr",
+       volume = {241},
+       number = {2},
+          eid = {34},
+        pages = {34},
+          doi = {10.3847/1538-4365/ab074f},
+archivePrefix = {arXiv},
+       eprint = {1810.01447},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2019ApJS..241...34S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2019ApJ...874....8M,
+       author = {{MacLeod}, Chelsea L. and {Green}, Paul J. and {Anderson}, Scott F. and
+         {Bruce}, Alastair and {Eracleous}, Michael and {Graham}, Matthew and
+         {Homan}, David and {Lawrence}, Andy and {LeBleu}, Amy and
+         {Ross}, Nicholas P.},
+        title = "{Changing-look Quasar Candidates: First Results from Follow-up Spectroscopy of Highly Optically Variable Quasars}",
+      journal = {\apj},
+     keywords = {accretion, accretion disks, catalogs, quasars: emission lines, Astrophysics - Astrophysics of Galaxies},
+         year = "2019",
+        month = "Mar",
+       volume = {874},
+       number = {1},
+          eid = {8},
+        pages = {8},
+          doi = {10.3847/1538-4357/ab05e2},
+archivePrefix = {arXiv},
+       eprint = {1810.00087},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2019ApJ...874....8M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2019arXiv190302553R,
+       author = {{Ruan}, John J. and {Anderson}, Scott F. and {Eracleous}, Michael and
+         {Green}, Paul J. and {Haggard}, Daryl and {MacLeod}, Chelsea L. and
+         {Runnoe}, Jessie C. and {Sobolewska}, Malgosia},
+        title = "{The Analogous Structure of Accretion Flows in Supermassive and Stellar Mass Black Holes}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - High Energy Astrophysical Phenomena},
+         year = "2019",
+        month = "Mar",
+          eid = {arXiv:1903.02553},
+        pages = {arXiv:1903.02553},
+archivePrefix = {arXiv},
+       eprint = {1903.02553},
+ primaryClass = {astro-ph.HE},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2019arXiv190302553R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2019ApJ...874...44Y,
+       author = {{Yan}, Lin and {Wang}, Tinggui and {Jiang}, Ning and {Stern}, Daniel and
+         {Dou}, Liming and {Fremling}, C. and {Graham}, M.~J. and
+         {Drake}, A.~J. and {Yang}, Chenwei and {Burdge}, K.},
+        title = "{Rapid {\textquotedblleft}Turn-on{\textquotedblright} of Type-1 AGN in a Quiescent Early-type Galaxy SDSS1115+0544}",
+      journal = {\apj},
+     keywords = {galaxies: nuclei, stars: flare, supernovae: general, Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Astrophysics of Galaxies},
+         year = "2019",
+        month = "Mar",
+       volume = {874},
+       number = {1},
+          eid = {44},
+        pages = {44},
+          doi = {10.3847/1538-4357/ab074b},
+archivePrefix = {arXiv},
+       eprint = {1902.04163},
+ primaryClass = {astro-ph.HE},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2019ApJ...874...44Y},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2019MNRAS.483L..88P,
+       author = {{Parker}, M.~L. and {Schartel}, N. and {Grupe}, D. and {Komossa}, S. and
+         {Harrison}, F. and {Kollatschny}, W. and {Mikula}, R. and
+         {Santos-Lle{\'o}}, M. and {Tom{\'a}s}, L.},
+        title = "{X-ray spectra reveal the reawakening of the repeat changing-look AGN NGC 1566}",
+      journal = {\mnras},
+     keywords = {accretion, accretion discs, galaxies: active, galaxies: individual: NGC 1566, galaxies: Seyfert, Astrophysics - High Energy Astrophysical Phenomena},
+         year = "2019",
+        month = "Feb",
+       volume = {483},
+       number = {1},
+        pages = {L88-L92},
+          doi = {10.1093/mnrasl/sly224},
+archivePrefix = {arXiv},
+       eprint = {1811.10289},
+ primaryClass = {astro-ph.HE},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2019MNRAS.483L..88P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2019MNRAS.483L..17D,
+       author = {{Dexter}, Jason and {Begelman}, Mitchell C.},
+        title = "{Extreme AGN variability: evidence of magnetically elevated accretion?}",
+      journal = {\mnras},
+     keywords = {galaxies: active, stars: black holes, quasars: general, accretion: accretion discs, Astrophysics - Astrophysics of Galaxies, Astrophysics - High Energy Astrophysical Phenomena},
+         year = "2019",
+        month = "Feb",
+       volume = {483},
+       number = {1},
+        pages = {L17-L21},
+          doi = {10.1093/mnrasl/sly213},
+archivePrefix = {arXiv},
+       eprint = {1807.03314},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2019MNRAS.483L..17D},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2019arXiv190109757C,
+       author = {{Czerny}, Bozena and {Olejak}, Aleksandra and {Ralowski}, Mateusz and
+         {Kozlowski}, Szymon and {Loli Martinez Aldama}, Mary and
+         {Zajacek}, Michal and {Pych}, Wojtek and {Hryniewicz}, Krzysztof and
+         {Pietrzynski}, Grzegorz and {Sobrino Figaredo}, C.},
+        title = "{Time delay measurement of Mg II line in CTS C30.10 with SALT}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Astrophysics of Galaxies},
+         year = "2019",
+        month = "Jan",
+          eid = {arXiv:1901.09757},
+        pages = {arXiv:1901.09757},
+archivePrefix = {arXiv},
+       eprint = {1901.09757},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2019arXiv190109757C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018MNRAS.480.4468R,
+       author = {{Ross}, Nicholas P. and {Ford}, K.~E. Saavik and {Graham}, Matthew and
+         {McKernan}, Barry and {Stern}, Daniel and {Meisner}, Aaron M. and
+         {Assef}, Roberto J. and {Dey}, Arjun and {Drake}, Andrew J. and
+         {Jun}, Hyunsung D.},
+        title = "{A new physical interpretation of optical and infrared variability in quasars}",
+      journal = {\mnras},
+     keywords = {accretion, accretion discs, surveys, quasars: general, quasars: individual: J1100-0053, Astrophysics - Astrophysics of Galaxies},
+         year = "2018",
+        month = "Nov",
+       volume = {480},
+       number = {4},
+        pages = {4468-4479},
+          doi = {10.1093/mnras/sty2002},
+archivePrefix = {arXiv},
+       eprint = {1805.06921},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.4468R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018MNRAS.480.3898N,
+       author = {{Noda}, Hirofumi and {Done}, Chris},
+        title = "{Explaining changing-look AGN with state transition triggered by rapid mass accretion rate drop}",
+      journal = {\mnras},
+     keywords = {galaxies: active, galaxies: individual: Mrk 1018, galaxies: Seyfert, X-rays: galaxies, Astrophysics - Astrophysics of Galaxies},
+         year = "2018",
+        month = "Nov",
+       volume = {480},
+       number = {3},
+        pages = {3898-3906},
+          doi = {10.1093/mnras/sty2032},
+archivePrefix = {arXiv},
+       eprint = {1805.07873},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.3898N},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@MISC{2018ascl.soft09008G,
+       author = {{Guo}, Hengxiao and {Shen}, Yue and {Wang}, Shu},
+        title = "{PyQSOFit: Python code to fit the spectrum of quasars}",
+     keywords = {Software},
+         year = "2018",
+        month = "Sep",
+          eid = {ascl:1809.008},
+        pages = {ascl:1809.008},
+archivePrefix = {ascl},
+       eprint = {1809.008},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2018ascl.soft09008G},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018ApJ...862..109Y,
+       author = {{Yang}, Qian and {Wu}, Xue-Bing and {Fan}, Xiaohui and {Jiang}, Linhua and
+         {McGreer}, Ian and {Shangguan}, Jinyi and {Yao}, Su and
+         {Wang}, Bingquan and {Joshi}, Ravi and {Green}, Richard},
+        title = "{Discovery of 21 New Changing-look AGNs in the Northern Sky}",
+      journal = {\apj},
+     keywords = {black hole physics, galaxies: active, galaxies: nuclei, Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics},
+         year = "2018",
+        month = "Aug",
+       volume = {862},
+       number = {2},
+          eid = {109},
+        pages = {109},
+          doi = {10.3847/1538-4357/aaca3a},
+archivePrefix = {arXiv},
+       eprint = {1711.08122},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2018ApJ...862..109Y},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018ApJ...858...49W,
+       author = {{Wang}, J. and {Xu}, D.~W. and {Wei}, J.~Y.},
+        title = "{Identification of SDSS J141324.27+530527.0 as a New {\textquotedblleft}Changing-look{\textquotedblright} Quasar with a {\textquotedblleft}Turn-on{\textquotedblright} Transition}",
+      journal = {\apj},
+     keywords = {galaxies: active, galaxies: nuclei, quasars: emission lines, quasars: individual: SDSS J141324+530527, Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics},
+         year = "2018",
+        month = "May",
+       volume = {858},
+       number = {1},
+          eid = {49},
+        pages = {49},
+          doi = {10.3847/1538-4357/aab88b},
+archivePrefix = {arXiv},
+       eprint = {1803.06255},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2018ApJ...858...49W},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018ApJ...854..160R,
+       author = {{Rumbaugh}, N. and {Shen}, Yue and {Morganson}, Eric and {Liu}, Xin and
+         {Banerji}, M. and {McMahon}, R.~G. and {Abdalla}, F.~B. and
+         {Benoit-L{\'e}vy}, A. and {Bertin}, E. and {Brooks}, D.},
+        title = "{Extreme Variability Quasars from the Sloan Digital Sky Survey and the Dark Energy Survey}",
+      journal = {\apj},
+     keywords = {black hole physics, galaxies: active, line: profiles, quasars: general, surveys, Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics},
+         year = "2018",
+        month = "Feb",
+       volume = {854},
+       number = {2},
+          eid = {160},
+        pages = {160},
+          doi = {10.3847/1538-4357/aaa9b6},
+archivePrefix = {arXiv},
+       eprint = {1706.07875},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2018ApJ...854..160R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018ApJ...854..128S,
+       author = {{Sun}, Mouyuan and {Xue}, Yongquan and {Richards}, Gordon T. and
+         {Trump}, Jonathan R. and {Shen}, Yue and {Brandt}, W.~N. and
+         {Schneider}, D.~P.},
+        title = "{The Sloan Digital Sky Survey Reverberation Mapping Project: The C IV Blueshift, Its Variability, and Its Dependence Upon Quasar Properties}",
+      journal = {\apj},
+     keywords = {black hole physics, galaxies: active, quasars: emission lines, quasars: general, surveys, Astrophysics - Astrophysics of Galaxies, Astrophysics - High Energy Astrophysical Phenomena},
+         year = "2018",
+        month = "Feb",
+       volume = {854},
+       number = {2},
+          eid = {128},
+        pages = {128},
+          doi = {10.3847/1538-4357/aaa890},
+archivePrefix = {arXiv},
+       eprint = {1801.05111},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2018ApJ...854..128S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018NatAs...2..102L,
+       author = {{Lawrence}, Andy},
+        title = "{Quasar viscosity crisis}",
+      journal = {Nature Astronomy},
+     keywords = {Astrophysics - High Energy Astrophysical Phenomena},
+         year = "2018",
+        month = "Feb",
+       volume = {2},
+        pages = {102-103},
+          doi = {10.1038/s41550-017-0372-1},
+archivePrefix = {arXiv},
+       eprint = {1802.00408},
+ primaryClass = {astro-ph.HE},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2018NatAs...2..102L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018MNRAS.473.1130B,
+       author = {{Brown}, J.~S. and {Kochanek}, C.~S. and {Holoien}, T.~W. -S. and
+         {Stanek}, K.~Z. and {Auchettl}, K. and {Shappee}, B.~J. and
+         {Prieto}, J.~L. and {Morrell}, N. and {Falco}, E. and {Strader}, J.},
+        title = "{The ultraviolet spectroscopic evolution of the low-luminosity tidal disruption event iPTF16fnl}",
+      journal = {\mnras},
+     keywords = {accretion, accretion discs, black hole physics, galaxies: nuclei, Astrophysics - High Energy Astrophysical Phenomena},
+         year = "2018",
+        month = "Jan",
+       volume = {473},
+       number = {1},
+        pages = {1130-1144},
+          doi = {10.1093/mnras/stx2372},
+archivePrefix = {arXiv},
+       eprint = {1704.02321},
+ primaryClass = {astro-ph.HE},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2018MNRAS.473.1130B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017ApJ...851...21G,
+       author = {{Grier}, C.~J. and {Trump}, J.~R. and {Shen}, Yue and {Horne}, Keith and
+         {Kinemuchi}, Karen and {McGreer}, Ian D. and {Starkey}, D.~A. and {Brand
+        t}, W.~N. and {Hall}, P.~B. and {Kochanek}, C.~S.},
+        title = "{The Sloan Digital Sky Survey Reverberation Mapping Project: H{\ensuremath{\alpha}} and H{\ensuremath{\beta}} Reverberation Measurements from First-year Spectroscopy and Photometry}",
+      journal = {\apj},
+     keywords = {galaxies: active, galaxies: nuclei, quasars: emission lines, quasars: general, Astrophysics - Astrophysics of Galaxies},
+         year = "2017",
+        month = "Dec",
+       volume = {851},
+       number = {1},
+          eid = {21},
+        pages = {21},
+          doi = {10.3847/1538-4357/aa98dc},
+archivePrefix = {arXiv},
+       eprint = {1711.03114},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2017ApJ...851...21G},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017RMxAA..53..385F,
+       author = {{Ferland}, G.~J. and {Chatzikos}, M. and {Guzm{\'a}n}, F. and
+         {Lykins}, M.~L. and {van Hoof}, P.~A.~M. and {Williams}, R.~J.~R. and
+         {Abel}, N.~P. and {Badnell}, N.~R. and {Keenan}, F.~P. and
+         {Porter}, R.~L.},
+        title = "{The 2017 Release Cloudy}",
+      journal = {\rmxaa},
+     keywords = {atomic processes, galaxies: active, methods: numerical, molecular processes, radiation mechanisms: general, Astrophysics - Astrophysics of Galaxies},
+         year = "2017",
+        month = "Oct",
+       volume = {53},
+        pages = {385-438},
+archivePrefix = {arXiv},
+       eprint = {1705.10877},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2017RMxAA..53..385F},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017ApJ...846L...7S,
+       author = {{Sheng}, Zhenfeng and {Wang}, Tinggui and {Jiang}, Ning and
+         {Yang}, Chenwei and {Yan}, Lin and {Dou}, Liming and {Peng}, Bo},
+        title = "{Mid-infrared Variability of Changing-look AGNs}",
+      journal = {\apj},
+     keywords = {accretion, accretion disks, galaxies: active, galaxies: Seyfert, infrared: galaxies, Astrophysics - Astrophysics of Galaxies},
+         year = "2017",
+        month = "Sep",
+       volume = {846},
+       number = {1},
+          eid = {L7},
+        pages = {L7},
+          doi = {10.3847/2041-8213/aa85de},
+archivePrefix = {arXiv},
+       eprint = {1707.02686},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2017ApJ...846L...7S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017ApJ...843...30Z,
+       author = {{Zhu}, Dongchun and {Sun}, Mouyuan and {Wang}, Tinggui},
+        title = "{Relation between the Variations in the Mg II {\ensuremath{\lambda}}2798 Emission Line and 3000 {\r{A}} Continuum}",
+      journal = {\apj},
+     keywords = {black hole physics, galaxies: active, quasars: emission lines, quasars: general, surveys, Astrophysics - Astrophysics of Galaxies},
+         year = "2017",
+        month = "Jul",
+       volume = {843},
+       number = {1},
+          eid = {30},
+        pages = {30},
+          doi = {10.3847/1538-4357/aa76e7},
+archivePrefix = {arXiv},
+       eprint = {1706.01635},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2017ApJ...843...30Z},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017A&A...603A..49R,
+       author = {{Raki{\'c}}, N. and {La Mura}, G. and {Ili{\'c}}, D. and
+         {Shapovalova}, A.~I. and {Kollatschny}, W. and {Rafanelli}, P. and
+         {Popovi{\'c}}, L. {\v{C}}.},
+        title = "{The intrinsic Baldwin effect in broad Balmer lines of six long-term monitored AGNs}",
+      journal = {\aap},
+     keywords = {galaxies: active, galaxies: Seyfert, quasars: emission lines, quasars: general, Astrophysics - Astrophysics of Galaxies},
+         year = "2017",
+        month = "Jul",
+       volume = {603},
+          eid = {A49},
+        pages = {A49},
+          doi = {10.1051/0004-6361/201630085},
+archivePrefix = {arXiv},
+       eprint = {1703.06188},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2017A&A...603A..49R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017A&A...604L...3H,
+       author = {{Hutsem{\'e}kers}, D. and {Ag{\'\i}s Gonz{\'a}lez}, B. and {Sluse}, D. and
+         {Ramos Almeida}, C. and {Acosta Pulido}, J. -A.},
+        title = "{Polarization of the changing-look quasar J1011+5442}",
+      journal = {\aap},
+     keywords = {quasars: emission lines, quasars: general, Astrophysics - Astrophysics of Galaxies},
+         year = "2017",
+        month = "Jul",
+       volume = {604},
+          eid = {L3},
+        pages = {L3},
+          doi = {10.1051/0004-6361/201731397},
+archivePrefix = {arXiv},
+       eprint = {1707.05540},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2017A&A...604L...3H},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017MNRAS.467.1259B,
+       author = {{Bruce}, A. and {Lawrence}, A. and {MacLeod}, C. and {Elvis}, M. and
+         {Ward}, M.~J. and {Collinson}, J.~S. and {Gezari}, S. and
+         {Marshall}, P.~J. and {Lam}, M.~C. and {Kotak}, R.},
+        title = "{Spectral analysis of four `hypervariable' AGN: a micro-needle in the haystack?}",
+      journal = {\mnras},
+     keywords = {galaxies:active, galaxies:nuclei, gravitational lensing: micro, accretion, accretion discs, quasars: absorption lines, quasars:emission lines, galaxies: active, galaxies: nuclei, quasars: emission lines, Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Astrophysics of Galaxies},
+         year = "2017",
+        month = "May",
+       volume = {467},
+       number = {2},
+        pages = {1259-1280},
+          doi = {10.1093/mnras/stx168},
+archivePrefix = {arXiv},
+       eprint = {1608.06261},
+ primaryClass = {astro-ph.HE},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2017MNRAS.467.1259B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017ApJ...840...11L,
+       author = {{LaMassa}, Stephanie M. and {Yaqoob}, Tahir and {Kilgard}, Roy},
+        title = "{Insight into {\textquotedblleft}Changing-look{\textquotedblright} AGN Mrk 1018 from the Fe K{\ensuremath{\alpha}} Line: The Reprocessing Gas Has Yet to Fully Respond to the Fading of the AGN}",
+      journal = {\apj},
+     keywords = {galaxies: Seyfert, X-rays: individual: Mrk 1018, Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Astrophysics of Galaxies},
+         year = "2017",
+        month = "May",
+       volume = {840},
+       number = {1},
+          eid = {11},
+        pages = {11},
+          doi = {10.3847/1538-4357/aa68df},
+archivePrefix = {arXiv},
+       eprint = {1703.07410},
+ primaryClass = {astro-ph.HE},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2017ApJ...840...11L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017ApJ...835..144G,
+       author = {{Gezari}, S. and {Hung}, T. and {Cenko}, S.~B. and {Blagorodnova}, N. and
+         {Yan}, Lin and {Kulkarni}, S.~R. and {Mooley}, K. and {Kong}, A.~K.~H. and
+         {Cantwell}, T.~M. and {Yu}, P.~C.},
+        title = "{iPTF Discovery of the Rapid {\textquotedblleft}Turn-on{\textquotedblright} of a Luminous Quasar}",
+      journal = {\apj},
+     keywords = {accretion, accretion disks, black hole physics, galaxies: active, surveys, Astrophysics - High Energy Astrophysical Phenomena},
+         year = "2017",
+        month = "Feb",
+       volume = {835},
+       number = {2},
+          eid = {144},
+        pages = {144},
+          doi = {10.3847/1538-4357/835/2/144},
+archivePrefix = {arXiv},
+       eprint = {1612.04830},
+ primaryClass = {astro-ph.HE},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2017ApJ...835..144G},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016MNRAS.462.3993B,
+       author = {{Brown}, Jonathan S. and {Shappee}, Benjamin J. and
+         {Holoien}, T.~W. -S. and {Stanek}, K.~Z. and {Kochanek}, C.~S. and
+         {Prieto}, J.~L.},
+        title = "{Hello darkness my old friend: the fading of the nearby TDE ASASSN-14ae}",
+      journal = {\mnras},
+     keywords = {accretion, accretion discs, black hole physics, galaxies: nuclei, Astrophysics - High Energy Astrophysical Phenomena},
+         year = "2016",
+        month = "Nov",
+       volume = {462},
+       number = {4},
+        pages = {3993-4000},
+          doi = {10.1093/mnras/stw1928},
+archivePrefix = {arXiv},
+       eprint = {1604.06093},
+ primaryClass = {astro-ph.HE},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.3993B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016ApJ...826..188R,
+       author = {{Ruan}, John J. and {Anderson}, Scott F. and {Cales}, Sabrina L. and
+         {Eracleous}, Michael and {Green}, Paul J. and {Morganson}, Eric and
+         {Runnoe}, Jessie C. and {Shen}, Yue and {Wilkinson}, Tessa D. and
+         {Blanton}, Michael R.},
+        title = "{Toward an Understanding of Changing-look Quasars: An Archival Spectroscopic Search in SDSS}",
+      journal = {\apj},
+     keywords = {galaxies: active, quasars: emission lines, quasars: general, Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Astrophysics of Galaxies},
+         year = "2016",
+        month = "Aug",
+       volume = {826},
+       number = {2},
+          eid = {188},
+        pages = {188},
+          doi = {10.3847/0004-637X/826/2/188},
+archivePrefix = {arXiv},
+       eprint = {1509.03634},
+ primaryClass = {astro-ph.HE},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2016ApJ...826..188R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016ApJ...826....7C,
+       author = {{Cai}, Zhen-Yi and {Wang}, Jun-Xian and {Gu}, Wei-Min and {Sun}, Yu-Han and
+         {Wu}, Mao-Chun and {Huang}, Xing-Xing and {Chen}, Xiao-Yang},
+        title = "{Simulating the Timescale-Dependent Color Variation in Quasars with a Revised Inhomogeneous Disk Model}",
+      journal = {\apj},
+     keywords = {accretion, accretion disks, black hole physics, galaxies: active, Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics},
+         year = "2016",
+        month = "Jul",
+       volume = {826},
+       number = {1},
+          eid = {7},
+        pages = {7},
+          doi = {10.3847/0004-637X/826/1/7},
+archivePrefix = {arXiv},
+       eprint = {1605.03185},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2016ApJ...826....7C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016ApJ...825..137R,
+       author = {{Ruan}, John J. and {Anderson}, Scott F. and {Green}, Paul J. and
+         {Morganson}, Eric and {Eracleous}, Michael and {Myers}, Adam D. and
+         {Badenes}, Carles and {Bershady}, Matthew A. and {Brandt}, William N. and
+         {Chambers}, Kenneth C.},
+        title = "{The Time-Domain Spectroscopic Survey: Understanding the Optically Variable Sky with SEQUELS in SDSS-III}",
+      journal = {\apj},
+     keywords = {quasars: general, stars: variables: general, surveys, Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
+         year = "2016",
+        month = "Jul",
+       volume = {825},
+       number = {2},
+          eid = {137},
+        pages = {137},
+          doi = {10.3847/0004-637X/825/2/137},
+archivePrefix = {arXiv},
+       eprint = {1602.02752},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2016ApJ...825..137R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016ApJ...822...26G,
+       author = {{Guo}, Hengxiao and {Gu}, Minfeng},
+        title = "{The Optical Variability of SDSS Quasars from Multi-epoch Spectroscopy. II. Color Variation}",
+      journal = {\apj},
+     keywords = {galaxies: active, quasars: general, techniques: spectroscopic, Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - High Energy Astrophysical Phenomena},
+         year = "2016",
+        month = "May",
+       volume = {822},
+       number = {1},
+          eid = {26},
+        pages = {26},
+          doi = {10.3847/0004-637X/822/1/26},
+archivePrefix = {arXiv},
+       eprint = {1603.06876},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2016ApJ...822...26G},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016ApJ...821...33R,
+       author = {{Runco}, Jordan N. and {Cosens}, Maren and {Bennert}, Vardha N. and
+         {Scott}, Bryan and {Komossa}, S. and {Malkan}, Matthew A. and
+         {Lazarova}, Mariana S. and {Auger}, Matthew W. and {Treu}, Tommaso and
+         {Park}, Daeseong},
+        title = "{Broad H{\ensuremath{\beta}} Emission-line Variability in a Sample of 102 Local Active Galaxies}",
+      journal = {\apj},
+     keywords = {accretion, accretion disks, galaxies: active, galaxies: evolution, galaxies: Seyfert, galaxies: statistics, Astrophysics - Astrophysics of Galaxies},
+         year = "2016",
+        month = "Apr",
+       volume = {821},
+       number = {1},
+          eid = {33},
+        pages = {33},
+          doi = {10.3847/0004-637X/821/1/33},
+archivePrefix = {arXiv},
+       eprint = {1603.00035},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2016ApJ...821...33R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016MNRAS.457..389M,
+       author = {{MacLeod}, Chelsea L. and {Ross}, Nicholas P. and {Lawrence}, Andy and
+         {Goad}, Mike and {Horne}, Keith and {Burgett}, William and
+         {Chambers}, Ken C. and {Flewelling}, Heather and {Hodapp}, Klaus and
+         {Kaiser}, Nick},
+        title = "{A systematic search for changing-look quasars in SDSS}",
+      journal = {\mnras},
+     keywords = {accretion, accretion discs, galaxies: active, quasars: emission lines, quasars: general, Astrophysics - Astrophysics of Galaxies},
+         year = "2016",
+        month = "Mar",
+       volume = {457},
+       number = {1},
+        pages = {389-404},
+          doi = {10.1093/mnras/stv2997},
+archivePrefix = {arXiv},
+       eprint = {1509.08393},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2016MNRAS.457..389M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016ApJ...818...30S,
+       author = {{Shen}, Yue and {Horne}, Keith and {Grier}, C.~J. and
+         {Peterson}, Bradley M. and {Denney}, Kelly D. and {Trump}, Jonathan R. and
+         {Sun}, Mouyuan and {Brandt}, W.~N. and {Kochanek}, Christopher S. and
+         {Dawson}, Kyle S.},
+        title = "{The Sloan Digital Sky Survey Reverberation Mapping Project: First Broad-line H{\ensuremath{\beta}} and Mg II Lags at z {\ensuremath{\gtrsim}}  0.3 from Six-month Spectroscopy}",
+      journal = {\apj},
+     keywords = {black hole physics, galaxies: active, line: profiles, quasars: general, surveys, Astrophysics - Astrophysics of Galaxies},
+         year = "2016",
+        month = "Feb",
+       volume = {818},
+       number = {1},
+          eid = {30},
+        pages = {30},
+          doi = {10.3847/0004-637X/818/1/30},
+archivePrefix = {arXiv},
+       eprint = {1510.02802},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2016ApJ...818...30S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016MNRAS.455.1691R,
+       author = {{Runnoe}, Jessie C. and {Cales}, Sabrina and {Ruan}, John J. and
+         {Eracleous}, Michael and {Anderson}, Scott F. and {Shen}, Yue and
+         {Green}, Paul J. and {Morganson}, Eric and {LaMassa}, Stephanie and
+         {Greene}, Jenny E.},
+        title = "{Now you see it, now you don't: the disappearing central engine of the quasar J1011+5442}",
+      journal = {\mnras},
+     keywords = {accretion, accretion discs, galaxies: active, quasars: general, Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics},
+         year = "2016",
+        month = "Jan",
+       volume = {455},
+       number = {2},
+        pages = {1691-1701},
+          doi = {10.1093/mnras/stv2385},
+archivePrefix = {arXiv},
+       eprint = {1509.03640},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2016MNRAS.455.1691R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2015ApJ...810...86C,
+       author = {{Cackett}, E.~M. and {G{\"u}ltekin}, K. and {Bentz}, M.~C. and
+         {Fausnaugh}, M.~M. and {Peterson}, B.~M. and {Troyer}, J. and
+         {Vestergaard}, M.},
+        title = "{Swift/UVOT Grism Monitoring of NGC 5548 in 2013: An Attempt at MgII Reverberation Mapping}",
+      journal = {\apj},
+     keywords = {galaxies: active, galaxies: individual: NGC 5548, galaxies: nuclei, galaxies: Seyfert, Astrophysics - Astrophysics of Galaxies, Astrophysics - High Energy Astrophysical Phenomena},
+         year = "2015",
+        month = "Sep",
+       volume = {810},
+       number = {2},
+          eid = {86},
+        pages = {86},
+          doi = {10.1088/0004-637X/810/2/86},
+archivePrefix = {arXiv},
+       eprint = {1503.02029},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2015ApJ...810...86C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2015ApJ...811...42S,
+       author = {{Sun}, Mouyuan and {Trump}, Jonathan R. and {Shen}, Yue and {Brand
+        t}, W.~N. and {Dawson}, Kyle and {Denney}, Kelly D. and
+         {Hall}, Patrick B. and {Ho}, Luis C. and {Horne}, Keith and
+         {Jiang}, Linhua},
+        title = "{The Sloan Digital Sky Survey Reverberation Mapping Project: Ensemble Spectroscopic Variability of Quasar Broad Emission Lines}",
+      journal = {\apj},
+     keywords = {black hole physics, galaxies: active, quasars: emission lines, quasars: general, surveys, Astrophysics - Astrophysics of Galaxies},
+         year = "2015",
+        month = "Sep",
+       volume = {811},
+       number = {1},
+          eid = {42},
+        pages = {42},
+          doi = {10.1088/0004-637X/811/1/42},
+archivePrefix = {arXiv},
+       eprint = {1506.07886},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2015ApJ...811...42S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2015ApJS..217...26B,
+       author = {{Barth}, Aaron J. and {Bennert}, Vardha N. and {Canalizo}, Gabriela and
+         {Filippenko}, Alexei V. and {Gates}, Elinor L. and {Greene}, Jenny E. and
+         {Li}, Weidong and {Malkan}, Matthew A. and {Pancoast}, Anna and {Sand
+        }, David J.},
+        title = "{The Lick AGN Monitoring Project 2011: Spectroscopic Campaign and Emission-line Light Curves}",
+      journal = {\apjs},
+     keywords = {galaxies: active, galaxies: nuclei, galaxies: Seyfert, techniques: spectroscopic, Astrophysics - Astrophysics of Galaxies},
+         year = "2015",
+        month = "Apr",
+       volume = {217},
+       number = {2},
+          eid = {26},
+        pages = {26},
+          doi = {10.1088/0067-0049/217/2/26},
+archivePrefix = {arXiv},
+       eprint = {1503.01146},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2015ApJS..217...26B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2015ApJ...800..144L,
+       author = {{LaMassa}, Stephanie M. and {Cales}, Sabrina and {Moran}, Edward C. and
+         {Myers}, Adam D. and {Richards}, Gordon T. and {Eracleous}, Michael and
+         {Heckman}, Timothy M. and {Gallo}, Luigi and {Urry}, C. Megan},
+        title = "{The Discovery of the First {\textquotedblleft}Changing Look{\textquotedblright} Quasar: New Insights Into the Physics and Phenomenology of Active Galactic Nucleus}",
+      journal = {\apj},
+     keywords = {accretion, accretion disks, line: profiles, quasars: emission lines, quasars: general, quasars: individual: SDSS J015957.64+003310.5, quasars: supermassive black holes, Astrophysics - Astrophysics of Galaxies},
+         year = "2015",
+        month = "Feb",
+       volume = {800},
+       number = {2},
+          eid = {144},
+        pages = {144},
+          doi = {10.1088/0004-637X/800/2/144},
+archivePrefix = {arXiv},
+       eprint = {1412.2136},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2015ApJ...800..144L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2015ApJS..216....4S,
+       author = {{Shen}, Yue and {Brandt}, W.~N. and {Dawson}, Kyle S. and
+         {Hall}, Patrick B. and {McGreer}, Ian D. and {Anderson}, Scott F. and
+         {Chen}, Yuguang and {Denney}, Kelly D. and {Eftekharzadeh}, Sarah and
+         {Fan}, Xiaohui},
+        title = "{The Sloan Digital Sky Survey Reverberation Mapping Project: Technical Overview}",
+      journal = {\apjs},
+     keywords = {black hole physics, galaxies: active, line: profiles, quasars: general, surveys, Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Astrophysics of Galaxies},
+         year = "2015",
+        month = "Jan",
+       volume = {216},
+       number = {1},
+          eid = {4},
+        pages = {4},
+          doi = {10.1088/0067-0049/216/1/4},
+archivePrefix = {arXiv},
+       eprint = {1408.5970},
+ primaryClass = {astro-ph.IM},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2015ApJS..216....4S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014A&A...570A..53M,
+       author = {{Modzelewska}, J. and {Czerny}, B. and {Hryniewicz}, K. and
+         {Bilicki}, M. and {Krupa}, M. and {{\'S}wi{\c{e}}to{\'n}}, A. and
+         {Pych}, W. and {Udalski}, A. and {Adhikari}, T.~P. and {Petrogalli}, F.},
+        title = "{SALT long-slit spectroscopy of CTS C30.10: two-component Mg II line}",
+      journal = {\aap},
+     keywords = {accretion, accretion disks, techniques: spectroscopic, line: profiles, quasars: individual: CTS C30.10, dark energy, galaxies: active, Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Astrophysics of Galaxies},
+         year = "2014",
+        month = "Oct",
+       volume = {570},
+          eid = {A53},
+        pages = {A53},
+          doi = {10.1051/0004-6361/201424332},
+archivePrefix = {arXiv},
+       eprint = {1408.1520},
+ primaryClass = {astro-ph.CO},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2014A&A...570A..53M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014ApJ...792...33G,
+       author = {{Guo}, Hengxiao and {Gu}, Minfeng},
+        title = "{The Optical Variability of SDSS Quasars from Multi-epoch Spectroscopy. I. Results from 60 Quasars with \&gt;= Six-epoch Spectra}",
+      journal = {\apj},
+     keywords = {galaxies: active, quasars: general, techniques: spectroscopic, Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Astrophysics of Galaxies},
+         year = "2014",
+        month = "Sep",
+       volume = {792},
+       number = {1},
+          eid = {33},
+        pages = {33},
+          doi = {10.1088/0004-637X/792/1/33},
+archivePrefix = {arXiv},
+       eprint = {1407.3025},
+ primaryClass = {astro-ph.HE},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2014ApJ...792...33G},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014SSRv..183..253P,
+       author = {{Peterson}, Bradley M.},
+        title = "{Measuring the Masses of Supermassive Black Holes}",
+      journal = {\ssr},
+     keywords = {Active galactic nuclei, Black hole, Reverberation mapping},
+         year = "2014",
+        month = "Sep",
+       volume = {183},
+       number = {1-4},
+        pages = {253-275},
+          doi = {10.1007/s11214-013-9987-4},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2014SSRv..183..253P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014Natur.513..210S,
+       author = {{Shen}, Yue and {Ho}, Luis C.},
+        title = "{The diversity of quasars unified by accretion and orientation}",
+      journal = {\nat},
+     keywords = {Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics},
+         year = "2014",
+        month = "Sep",
+       volume = {513},
+       number = {7517},
+        pages = {210-213},
+          doi = {10.1038/nature13712},
+archivePrefix = {arXiv},
+       eprint = {1409.2887},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2014Natur.513..210S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014ApJ...783...46K,
+       author = {{Kokubo}, Mitsuru and {Morokuma}, Tomoki and {Minezaki}, Takeo and
+         {Doi}, Mamoru and {Kawaguchi}, Toshihiro and {Sameshima}, Hiroaki and
+         {Koshida}, Shintaro},
+        title = "{Statistical Properties of Multi-epoch Spectral Variability of SDSS Stripe 82 Quasars}",
+      journal = {\apj},
+     keywords = {accretion, accretion disks, galaxies: active, galaxies: nuclei, quasars: emission lines, quasars: general, Astrophysics - Cosmology and Extragalactic Astrophysics},
+         year = "2014",
+        month = "Mar",
+       volume = {783},
+       number = {1},
+          eid = {46},
+        pages = {46},
+          doi = {10.1088/0004-637X/783/1/46},
+archivePrefix = {arXiv},
+       eprint = {1401.5074},
+ primaryClass = {astro-ph.CO},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2014ApJ...783...46K},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014ApJ...781...72R,
+       author = {{Roig}, Benjamin and {Blanton}, Michael R. and {Ross}, Nicholas P.},
+        title = "{Unusual Broad-line Mg II Emitters among Luminous Galaxies in the Baryon Oscillation Spectroscopic Survey}",
+      journal = {\apj},
+     keywords = {galaxies: active, galaxies: Seyfert, quasars: emission lines},
+         year = "2014",
+        month = "Feb",
+       volume = {781},
+       number = {2},
+          eid = {72},
+        pages = {72},
+          doi = {10.1088/0004-637X/781/2/72},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2014ApJ...781...72R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014A&A...562A..34H,
+       author = {{Hryniewicz}, K. and {Czerny}, B. and {Pych}, W. and {Udalski}, A. and
+         {Krupa}, M. and {{\'S}wi{\c{e}}to{\'n}}, A. and {Kaluzny}, J.},
+        title = "{SALT long-slit spectroscopy of LBQS 2113-4538: variability of the Mg II and Fe II component}",
+      journal = {\aap},
+     keywords = {dark energy, quasars: emission lines, quasars: individual: LBQS 2113-4538, Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Astrophysics of Galaxies},
+         year = "2014",
+        month = "Feb",
+       volume = {562},
+          eid = {A34},
+        pages = {A34},
+          doi = {10.1051/0004-6361/201322487},
+archivePrefix = {arXiv},
+       eprint = {1308.3980},
+ primaryClass = {astro-ph.CO},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2014A&A...562A..34H},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013MNRAS.436.3286A,
+       author = {{Arav}, Nahum and {Borguet}, Benoit and {Chamberlain}, Carter and
+         {Edmonds}, Doug and {Danforth}, Charles},
+        title = "{Quasar outflows and AGN feedback in the extreme UV: HST/COS observations of HE 0238-1904}",
+      journal = {\mnras},
+     keywords = {line: formation, galaxies: individual: HE 0238-1904, quasars: absorption lines, Astrophysics - Cosmology and Nongalactic Astrophysics},
+         year = "2013",
+        month = "Dec",
+       volume = {436},
+       number = {4},
+        pages = {3286-3305},
+          doi = {10.1093/mnras/stt1812},
+archivePrefix = {arXiv},
+       eprint = {1305.2181},
+ primaryClass = {astro-ph.CO},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2013MNRAS.436.3286A},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@BOOK{2013peag.book.....N,
+       author = {{Netzer}, Hagai},
+        title = "{The Physics and Evolution of Active Galactic Nuclei}",
+         year = "2013",
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2013peag.book.....N},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013A&A...555A..89M,
+       author = {{Marziani}, P. and {Sulentic}, J.~W. and {Plauchu-Frayn}, I. and
+         {del Olmo}, A.},
+        title = "{Is MgII{\ensuremath{\lambda}}2800 a reliable virial broadening estimator for quasars?}",
+      journal = {\aap},
+     keywords = {line: profiles, black hole physics, quasars: general, quasars: emission lines, Astrophysics - Cosmology and Nongalactic Astrophysics},
+         year = "2013",
+        month = "Jul",
+       volume = {555},
+          eid = {A89},
+        pages = {A89},
+          doi = {10.1051/0004-6361/201321374},
+archivePrefix = {arXiv},
+       eprint = {1305.1096},
+ primaryClass = {astro-ph.CO},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2013A&A...555A..89M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013RMxAA..49..137F,
+       author = {{Ferland}, G.~J. and {Porter}, R.~L. and {van Hoof}, P.~A.~M. and
+         {Williams}, R.~J.~R. and {Abel}, N.~P. and {Lykins}, M.~L. and
+         {Shaw}, G. and {Henney}, W.~J. and {Stancil}, P.~C.},
+        title = "{The 2013 Release of Cloudy}",
+      journal = {\rmxaa},
+     keywords = {atomic processes, galaxies: active, methods: numerical, molecular processes, radiation mechanisms: general, Astrophysics - Galaxy Astrophysics, Astrophysics - Cosmology and Extragalactic Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
+         year = "2013",
+        month = "Apr",
+       volume = {49},
+        pages = {137-163},
+archivePrefix = {arXiv},
+       eprint = {1302.4485},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2013RMxAA..49..137F},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013BASI...41...61S,
+       author = {{Shen}, Yue},
+        title = "{The mass of quasars}",
+      journal = {Bulletin of the Astronomical Society of India},
+     keywords = {black hole physics, galaxies: active, quasars: general, surveys, Astrophysics - Cosmology and Extragalactic Astrophysics},
+         year = "2013",
+        month = "Mar",
+       volume = {41},
+       number = {1},
+        pages = {61-115},
+archivePrefix = {arXiv},
+       eprint = {1302.2643},
+ primaryClass = {astro-ph.CO},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2013BASI...41...61S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013AJ....145...10D,
+       author = {{Dawson}, Kyle S. and {Schlegel}, David J. and {Ahn}, Christopher P. and
+         {Anderson}, Scott F. and {Aubourg}, {\'E}ric and {Bailey}, Stephen and
+         {Barkhouser}, Robert H. and {Bautista}, Julian E. and {Beifiori}, Alessand
+        ra and {Berlind}, Andreas A.},
+        title = "{The Baryon Oscillation Spectroscopic Survey of SDSS-III}",
+      journal = {\aj},
+     keywords = {cosmology: observations, surveys, Astrophysics - Cosmology and Nongalactic Astrophysics},
+         year = "2013",
+        month = "Jan",
+       volume = {145},
+       number = {1},
+          eid = {10},
+        pages = {10},
+          doi = {10.1088/0004-6256/145/1/10},
+archivePrefix = {arXiv},
+       eprint = {1208.0022},
+ primaryClass = {astro-ph.CO},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2013AJ....145...10D},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012AJ....144..144B,
+       author = {{Bolton}, Adam S. and {Schlegel}, David J. and {Aubourg}, {\'E}ric and
+         {Bailey}, Stephen and {Bhardwaj}, Vaishali and {Brownstein}, Joel R. and
+         {Burles}, Scott and {Chen}, Yan-Mei and {Dawson}, Kyle and
+         {Eisenstein}, Daniel J.},
+        title = "{Spectral Classification and Redshift Measurement for the SDSS-III Baryon Oscillation Spectroscopic Survey}",
+      journal = {\aj},
+     keywords = {methods: data analysis, surveys, techniques: spectroscopic, Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Instrumentation and Methods for Astrophysics},
+         year = "2012",
+        month = "Nov",
+       volume = {144},
+       number = {5},
+          eid = {144},
+        pages = {144},
+          doi = {10.1088/0004-6256/144/5/144},
+archivePrefix = {arXiv},
+       eprint = {1207.7326},
+ primaryClass = {astro-ph.CO},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2012AJ....144..144B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012ApJ...753..125S,
+       author = {{Shen}, Yue and {Liu}, Xin},
+        title = "{Comparing Single-epoch Virial Black Hole Mass Estimators for Luminous Quasars}",
+      journal = {\apj},
+     keywords = {black hole physics, galaxies: active, quasars: general, Astrophysics - Cosmology and Nongalactic Astrophysics},
+         year = "2012",
+        month = "Jul",
+       volume = {753},
+       number = {2},
+          eid = {125},
+        pages = {125},
+          doi = {10.1088/0004-637X/753/2/125},
+archivePrefix = {arXiv},
+       eprint = {1203.0601},
+ primaryClass = {astro-ph.CO},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2012ApJ...753..125S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012ApJ...754...18R,
+       author = {{Ruff}, Andrea J. and {Floyd}, David J.~E. and {Webster}, Rachel L. and
+         {Korista}, Kirk T. and {Landt}, Hermine},
+        title = "{New Constraints on the Quasar Broad Emission Line Region}",
+      journal = {\apj},
+     keywords = {galaxies: active, infrared: galaxies, quasars: emission lines, Astrophysics - Astrophysics of Galaxies, Astrophysics - Cosmology and Nongalactic Astrophysics},
+         year = "2012",
+        month = "Jul",
+       volume = {754},
+       number = {1},
+          eid = {18},
+        pages = {18},
+          doi = {10.1088/0004-637X/754/1/18},
+archivePrefix = {arXiv},
+       eprint = {1206.0721},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2012ApJ...754...18R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012ApJ...747...30P,
+       author = {{Park}, Daeseong and {Woo}, Jong-Hak and {Treu}, Tommaso and
+         {Barth}, Aaron J. and {Bentz}, Misty C. and {Bennert}, Vardha N. and
+         {Canalizo}, Gabriela and {Filippenko}, Alexei V. and {Gates}, Elinor and
+         {Greene}, Jenny E.},
+        title = "{The Lick AGN Monitoring Project: Recalibrating Single-epoch Virial Black Hole Mass Estimates}",
+      journal = {\apj},
+     keywords = {galaxies: nuclei, galaxies: Seyfert, Astrophysics - Cosmology and Nongalactic Astrophysics},
+         year = "2012",
+        month = "Mar",
+       volume = {747},
+       number = {1},
+          eid = {30},
+        pages = {30},
+          doi = {10.1088/0004-637X/747/1/30},
+archivePrefix = {arXiv},
+       eprint = {1111.6604},
+ primaryClass = {astro-ph.CO},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2012ApJ...747...30P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011ApJS..194...45S,
+       author = {{Shen}, Yue and {Richards}, Gordon T. and {Strauss}, Michael A. and
+         {Hall}, Patrick B. and {Schneider}, Donald P. and {Snedden}, Stephanie and
+         {Bizyaev}, Dmitry and {Brewington}, Howard and {Malanushenko}, Viktor and
+         {Malanushenko}, Elena},
+        title = "{A Catalog of Quasar Properties from Sloan Digital Sky Survey Data Release 7}",
+      journal = {\apjs},
+     keywords = {black hole physics, galaxies: active, quasars: general, surveys, Astrophysics - Cosmology and Extragalactic Astrophysics},
+         year = "2011",
+        month = "Jun",
+       volume = {194},
+       number = {2},
+          eid = {45},
+        pages = {45},
+          doi = {10.1088/0067-0049/194/2/45},
+archivePrefix = {arXiv},
+       eprint = {1006.5178},
+ primaryClass = {astro-ph.CO},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2011ApJS..194...45S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011MNRAS.413.2259S,
+       author = {{Sobolewska}, Ma{\l}gorzata A. and {Siemiginowska}, Aneta and
+         {Gierli{\'n}ski}, Marek},
+        title = "{Simulated spectral states of active galactic nuclei and observational predictions}",
+      journal = {\mnras},
+     keywords = {accretion, accretion discs, galaxies: active, X-rays: galaxies, Astrophysics - Astrophysics of Galaxies},
+         year = "2011",
+        month = "May",
+       volume = {413},
+       number = {3},
+        pages = {2259-2268},
+          doi = {10.1111/j.1365-2966.2011.18302.x},
+archivePrefix = {arXiv},
+       eprint = {1102.0798},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2011MNRAS.413.2259S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2011ApJ...727L..24D,
+       author = {{Dexter}, Jason and {Agol}, Eric},
+        title = "{Quasar Accretion Disks are Strongly Inhomogeneous}",
+      journal = {\apj},
+     keywords = {accretion, accretion disks, black hole physics, galaxies: active, gravitational lensing: micro, Astrophysics - Cosmology and Extragalactic Astrophysics, Astrophysics - High Energy Astrophysical Phenomena},
+         year = "2011",
+        month = "Jan",
+       volume = {727},
+       number = {1},
+          eid = {L24},
+        pages = {L24},
+          doi = {10.1088/2041-8205/727/1/L24},
+archivePrefix = {arXiv},
+       eprint = {1012.3169},
+ primaryClass = {astro-ph.CO},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2011ApJ...727L..24D},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2009ApJ...707.1334W,
+       author = {{Wang}, Jian-Guo and {Dong}, Xiao-Bo and {Wang}, Ting-Gui and
+         {Ho}, Luis C. and {Yuan}, Weimin and {Wang}, Huiyuan and {Zhang}, Kai and
+         {Zhang}, Shaohua and {Zhou}, Hongyan},
+        title = "{Estimating Black Hole Masses in Active Galactic Nuclei Using the Mg II {\ensuremath{\lambda}}2800 Emission Line}",
+      journal = {\apj},
+     keywords = {black hole physics, galaxies: active, quasars: emission lines, quasars: general, Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Astrophysics of Galaxies},
+         year = "2009",
+        month = "Dec",
+       volume = {707},
+       number = {2},
+        pages = {1334-1346},
+          doi = {10.1088/0004-637X/707/2/1334},
+archivePrefix = {arXiv},
+       eprint = {0910.2848},
+ primaryClass = {astro-ph.CO},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2009ApJ...707.1334W},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2009PASP..121.1334R,
+       author = {{Rau}, Arne and {Kulkarni}, Shrinivas R. and {Law}, Nicholas M. and
+         {Bloom}, Joshua S. and {Ciardi}, David and {Djorgovski}, George S. and
+         {Fox}, Derek B. and {Gal-Yam}, Avishay and {Grillmair}, Carl C. and
+         {Kasliwal}, Mansi M.},
+        title = "{Exploring the Optical Transient Sky with the Palomar Transient Factory}",
+      journal = {\pasp},
+     keywords = {Astrophysics - Cosmology and Extragalactic Astrophysics, Astrophysics - Galaxy Astrophysics},
+         year = "2009",
+        month = "Dec",
+       volume = {121},
+       number = {886},
+        pages = {1334},
+          doi = {10.1086/605911},
+archivePrefix = {arXiv},
+       eprint = {0906.5355},
+ primaryClass = {astro-ph.CO},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2009PASP..121.1334R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2009ApJ...703L...1D,
+       author = {{Dong}, Xiao-Bo and {Wang}, Ting-Gui and {Wang}, Jian-Guo and
+         {Fan}, Xiaohui and {Wang}, Huiyuan and {Zhou}, Hongyan and
+         {Yuan}, Weimin},
+        title = "{Eddington Ratio Governs the Equivalent Width of Mg II Emission Line in Active Galactic Nuclei}",
+      journal = {\apj},
+     keywords = {galaxies: active, line: formation, quasars: emission lines, quasars: general, radiation mechanisms: general, Astrophysics - Galaxy Astrophysics, Astrophysics - Cosmology and Extragalactic Astrophysics},
+         year = "2009",
+        month = "Sep",
+       volume = {703},
+       number = {1},
+        pages = {L1-L5},
+          doi = {10.1088/0004-637X/703/1/L1},
+archivePrefix = {arXiv},
+       eprint = {0907.4879},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2009ApJ...703L...1D},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2009ApJS..182..543A,
+       author = {{Abazajian}, Kevork N. and {Adelman-McCarthy}, Jennifer K. and
+         {Ag{\"u}eros}, Marcel A. and {Allam}, Sahar S. and
+         {Allende Prieto}, Carlos and {An}, Deokkeun and {Anderson}, Kurt S.~J. and
+         {Anderson}, Scott F. and {Annis}, James and {Bahcall}, Neta A.},
+        title = "{The Seventh Data Release of the Sloan Digital Sky Survey}",
+      journal = {\apjs},
+     keywords = {atlases, catalogs, surveys, Astrophysics},
+         year = "2009",
+        month = "Jun",
+       volume = {182},
+       number = {2},
+        pages = {543-558},
+          doi = {10.1088/0067-0049/182/2/543},
+archivePrefix = {arXiv},
+       eprint = {0812.0649},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2009ApJS..182..543A},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2009ApJ...696..870D,
+       author = {{Drake}, A.~J. and {Djorgovski}, S.~G. and {Mahabal}, A. and
+         {Beshore}, E. and {Larson}, S. and {Graham}, M.~J. and {Williams}, R. and
+         {Christensen}, E. and {Catelan}, M. and {Boattini}, A.},
+        title = "{First Results from the Catalina Real-Time Transient Survey}",
+      journal = {\apj},
+     keywords = {BL Lacertae objects: general, galaxies: general, novae, cataclysmic variables, stars: flare, supernovae: general, Astrophysics},
+         year = "2009",
+        month = "May",
+       volume = {696},
+       number = {1},
+        pages = {870-884},
+          doi = {10.1088/0004-637X/696/1/870},
+archivePrefix = {arXiv},
+       eprint = {0809.1394},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2009ApJ...696..870D},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2009ApJ...692..246D,
+       author = {{Denney}, Kelly D. and {Peterson}, Bradley M. and {Dietrich}, Matthias and
+         {Vestergaard}, Marianne and {Bentz}, Misty C.},
+        title = "{Systematic Uncertainties in Black Hole Masses Determined from Single-Epoch Spectra}",
+      journal = {\apj},
+     keywords = {galaxies: active, galaxies: nuclei, galaxies: Seyfert, quasars: emission lines, Astrophysics},
+         year = "2009",
+        month = "Feb",
+       volume = {692},
+       number = {1},
+        pages = {246-264},
+          doi = {10.1088/0004-637X/692/1/246},
+archivePrefix = {arXiv},
+       eprint = {0810.3234},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2009ApJ...692..246D},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2008ApJ...685..160N,
+       author = {{Nenkova}, Maia and {Sirocky}, Matthew M. and {Nikutta}, Robert and
+         {Ivezi{\'c}}, {\v{Z}}eljko and {Elitzur}, Moshe},
+        title = "{AGN Dusty Tori. II. Observational Implications of Clumpiness}",
+      journal = {\apj},
+     keywords = {dust, extinction, galaxies: active, galaxies: Seyfert, infrared: general, quasars: general, radiative transfer, Astrophysics},
+         year = "2008",
+        month = "Sep",
+       volume = {685},
+       number = {1},
+        pages = {160-180},
+          doi = {10.1086/590483},
+archivePrefix = {arXiv},
+       eprint = {0806.0512},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2008ApJ...685..160N},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2008MNRAS.387L..41L,
+       author = {{Li}, Shuang-Liang and {Cao}, Xinwu},
+        title = "{An accretion disc model for quasar optical variability}",
+      journal = {\mnras},
+     keywords = {accretion, accretion discs, galaxies: photometry, quasars: general, Astrophysics},
+         year = "2008",
+        month = "Jun",
+       volume = {387},
+       number = {1},
+        pages = {L41-L44},
+          doi = {10.1111/j.1745-3933.2008.00480.x},
+archivePrefix = {arXiv},
+       eprint = {0805.0351},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2008MNRAS.387L..41L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2008ApJ...680..169S,
+       author = {{Shen}, Yue and {Greene}, Jenny E. and {Strauss}, Michael A. and
+         {Richards}, Gordon T. and {Schneider}, Donald P.},
+        title = "{Biases in Virial Black Hole Masses: An SDSS Perspective}",
+      journal = {\apj},
+     keywords = {black hole physics, galaxies: active, galaxies: fundamental parameters, galaxies: high-redshift, quasars: general, surveys, Astrophysics},
+         year = "2008",
+        month = "Jun",
+       volume = {680},
+       number = {1},
+        pages = {169-190},
+          doi = {10.1086/587475},
+archivePrefix = {arXiv},
+       eprint = {0709.3098},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2008ApJ...680..169S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2008AJ....135.1849W,
+       author = {{Woo}, Jong-Hak},
+        title = "{M II Line Variability of High-Luminosity Quasars}",
+      journal = {\aj},
+     keywords = {galaxies: active, galaxies: nuclei, quasars: general, Astrophysics},
+         year = "2008",
+        month = "May",
+       volume = {135},
+       number = {5},
+        pages = {1849-1857},
+          doi = {10.1088/0004-6256/135/5/1849},
+archivePrefix = {arXiv},
+       eprint = {0802.3705},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2008AJ....135.1849W},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2007A&A...470..491T,
+       author = {{Trevese}, D. and {Paris}, D. and {Stirpe}, G.~M. and {Vagnetti}, F. and
+         {Zitelli}, V.},
+        title = "{Line and continuum variability of two intermediate-redshift, high-luminosity quasars}",
+      journal = {\aap},
+     keywords = {galaxies: active, quasars: emission lines, quasars: general, quasar: individual: PG 1634+706, quasars: individual: PG 1247+268, Astrophysics},
+         year = "2007",
+        month = "Aug",
+       volume = {470},
+       number = {2},
+        pages = {491-496},
+          doi = {10.1051/0004-6361:20077237},
+archivePrefix = {arXiv},
+       eprint = {0704.1958},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2007A&A...470..491T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2006ApJS..166..470R,
+       author = {{Richards}, Gordon T. and {Lacy}, Mark and {Storrie-Lombardi}, Lisa J. and
+         {Hall}, Patrick B. and {Gallagher}, S.~C. and {Hines}, Dean C. and
+         {Fan}, Xiaohui and {Papovich}, Casey and {Vanden Berk}, Daniel E. and
+         {Trammell}, George B.},
+        title = "{Spectral Energy Distributions and Multiwavelength Selection of Type 1 Quasars}",
+      journal = {\apjs},
+     keywords = {Catalogs, Galaxies: Active, Infrared: Galaxies, Galaxies: Quasars: General, Radio Continuum: Galaxies, Surveys, Ultraviolet: Galaxies, X-Rays: Galaxies, Astrophysics},
+         year = "2006",
+        month = "Oct",
+       volume = {166},
+       number = {2},
+        pages = {470-497},
+          doi = {10.1086/506525},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/0601558},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2006ApJS..166..470R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2006ApJ...648L.101E,
+       author = {{Elitzur}, Moshe and {Shlosman}, Isaac},
+        title = "{The AGN-obscuring Torus: The End of the ``Doughnut'' Paradigm?}",
+      journal = {\apj},
+     keywords = {Galaxies: Active, Galaxies: Nuclei, Galaxies: Seyfert, Infrared: Galaxies, Galaxies: Quasars: General, Astrophysics},
+         year = "2006",
+        month = "Sep",
+       volume = {648},
+       number = {2},
+        pages = {L101-L104},
+          doi = {10.1086/508158},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/0605686},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2006ApJ...648L.101E},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2006ApJ...647..901M,
+       author = {{Metzroth}, Kyle G. and {Onken}, Christopher A. and
+         {Peterson}, Bradley M.},
+        title = "{The Mass of the Central Black Hole in the Seyfert Galaxy NGC 4151}",
+      journal = {\apj},
+     keywords = {Galaxies: Active, Galaxies: Nuclei, Galaxies: Seyfert, Galaxies: Quasars: Emission Lines, Ultraviolet: Galaxies, Astrophysics},
+         year = "2006",
+        month = "Aug",
+       volume = {647},
+       number = {2},
+        pages = {901-909},
+          doi = {10.1086/505525},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/0605038},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2006ApJ...647..901M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2006ApJ...644..133B,
+       author = {{Bentz}, Misty C. and {Peterson}, Bradley M. and {Pogge}, Richard W. and
+         {Vestergaard}, Marianne and {Onken}, Christopher A.},
+        title = "{The Radius-Luminosity Relationship for Active Galactic Nuclei: The Effect of Host-Galaxy Starlight on Luminosity Measurements}",
+      journal = {\apj},
+     keywords = {Galaxies: Active, Galaxies: Nuclei, Galaxies: Photometry, Galaxies: Seyfert, Astrophysics},
+         year = "2006",
+        month = "Jun",
+       volume = {644},
+       number = {1},
+        pages = {133-142},
+          doi = {10.1086/503537},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/0602412},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2006ApJ...644..133B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2006ApJ...641...78W,
+       author = {{Wilhite}, Brian C. and {Vanden Berk}, Daniel E. and
+         {Brunner}, Robert J. and {Brinkmann}, Jonathan V.},
+        title = "{Spectral Variability of Quasars in the Sloan Digital Sky Survey. II. The C IV Line}",
+      journal = {\apj},
+     keywords = {Galaxies: Active, Galaxies: Quasars: General, Techniques: Spectroscopic, Astrophysics},
+         year = "2006",
+        month = "Apr",
+       volume = {641},
+       number = {1},
+        pages = {78-89},
+          doi = {10.1086/500421},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/0512313},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2006ApJ...641...78W},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2006A&A...447..157N,
+       author = {{Nagao}, T. and {Marconi}, A. and {Maiolino}, R.},
+        title = "{The evolution of the broad-line region among SDSS quasars}",
+      journal = {\aap},
+     keywords = {galaxies: active, galaxies: evolution, galaxies: nuclei, galaxies: quasars: emission lines, galaxies: quasars: general, Astrophysics},
+         year = "2006",
+        month = "Feb",
+       volume = {447},
+       number = {1},
+        pages = {157-172},
+          doi = {10.1051/0004-6361:20054024},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/0510385},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2006A&A...447..157N},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2006MNRAS.365.1180C,
+       author = {{Cackett}, Edward M. and {Horne}, Keith},
+        title = "{Photoionized H{\ensuremath{\beta}} emission in NGC 5548: it breathes!}",
+      journal = {\mnras},
+     keywords = {galaxies: active, galaxies: individual: NGC 5548, galaxies: nuclei, galaxies: Seyfert, Astrophysics},
+         year = "2006",
+        month = "Feb",
+       volume = {365},
+       number = {4},
+        pages = {1180-1190},
+          doi = {10.1111/j.1365-2966.2005.09795.x},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/0510800},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2006MNRAS.365.1180C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2004ApJ...615..610B,
+       author = {{Baldwin}, J.~A. and {Ferland}, G.~J. and {Korista}, K.~T. and
+         {Hamann}, F. and {LaCluyz{\'e}}, A.},
+        title = "{The Origin of Fe II Emission in Active Galactic Nuclei}",
+      journal = {\apj},
+     keywords = {Galaxies: Active, Galaxies: Quasars: Emission Lines, Astrophysics},
+         year = "2004",
+        month = "Nov",
+       volume = {615},
+       number = {2},
+        pages = {610-624},
+          doi = {10.1086/424683},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/0407404},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2004ApJ...615..610B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2004ApJ...613..682P,
+       author = {{Peterson}, B.~M. and {Ferrarese}, L. and {Gilbert}, K.~M. and
+         {Kaspi}, S. and {Malkan}, M.~A. and {Maoz}, D. and {Merritt}, D. and
+         {Netzer}, H. and {Onken}, C.~A. and {Pogge}, R.~W.},
+        title = "{Central Masses and Broad-Line Region Sizes of Active Galactic Nuclei. II. A Homogeneous Analysis of a Large Reverberation-Mapping Database}",
+      journal = {\apj},
+     keywords = {Galaxies: Active, Galaxies: Nuclei, Galaxies: Seyfert, Galaxies: Quasars: Emission Lines, Astrophysics},
+         year = "2004",
+        month = "Oct",
+       volume = {613},
+       number = {2},
+        pages = {682-699},
+          doi = {10.1086/423269},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/0407299},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2004ApJ...613..682P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2004ASPC..311..415K,
+       author = {{Korista}, K. and {Kodituwakku}, N. and {Corbin}, M. and {Freudling}, W.},
+        title = "{FeII/MgII, [Fe/Mg] Ratios and High-z Quasars}",
+     keywords = {Astrophysics},
+    booktitle = {AGN Physics with the Sloan Digital Sky Survey},
+         year = "2004",
+       editor = {{Richards}, Gordon T. and {Hall}, Patrick B.},
+       series = {Astronomical Society of the Pacific Conference Series},
+       volume = {311},
+        month = "Jun",
+        pages = {415},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/0311126},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2004ASPC..311..415K},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2004ApJ...606..749K,
+       author = {{Korista}, Kirk T. and {Goad}, Michael R.},
+        title = "{What the Optical Recombination Lines Can Tell Us about the Broad-Line Regions of Active Galactic Nuclei}",
+      journal = {\apj},
+     keywords = {Galaxies: Active, Galaxies: Nuclei, Galaxies: Seyfert, Line: Formation, Line: Profiles, Galaxies: Quasars: Emission Lines, Astrophysics},
+         year = "2004",
+        month = "May",
+       volume = {606},
+       number = {2},
+        pages = {749-762},
+          doi = {10.1086/383193},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/0402506},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2004ApJ...606..749K},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2003MNRAS.344.1000B,
+       author = {{Bruzual}, G. and {Charlot}, S.},
+        title = "{Stellar population synthesis at the resolution of 2003}",
+      journal = {\mnras},
+     keywords = {stars: evolution, galaxies: evolution, galaxies: formation, galaxies: stellar content, Astrophysics},
+         year = "2003",
+        month = "Oct",
+       volume = {344},
+       number = {4},
+        pages = {1000-1028},
+          doi = {10.1046/j.1365-8711.2003.06897.x},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/0309134},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2003MNRAS.344.1000B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2003ApJ...587..123G,
+       author = {{Gilbert}, Karoline M. and {Peterson}, Bradley M.},
+        title = "{An Intrinsic Baldwin Effect in the H{\ensuremath{\beta}} Broad Emission Line in the Spectrum of NGC 5548}",
+      journal = {\apj},
+     keywords = {Galaxies: Active, Galaxies: Individual: NGC Number: NGC 5548, Galaxies: Nuclei, Galaxies: Seyfert, Astrophysics},
+         year = "2003",
+        month = "Apr",
+       volume = {587},
+       number = {1},
+        pages = {123-127},
+          doi = {10.1086/368112},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/0212379},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2003ApJ...587..123G},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2001AJ....122..549V,
+       author = {{Vanden Berk}, Daniel E. and {Richards}, Gordon T. and {Bauer}, Amanda and
+         {Strauss}, Michael A. and {Schneider}, Donald P. and
+         {Heckman}, Timothy M. and {York}, Donald G. and {Hall}, Patrick B. and
+         {Fan}, Xiaohui and {Knapp}, G.~R.},
+        title = "{Composite Quasar Spectra from the Sloan Digital Sky Survey}",
+      journal = {\aj},
+     keywords = {Galaxies: Quasars: Emission Lines, Galaxies: Quasars: General, Astrophysics},
+         year = "2001",
+        month = "Aug",
+       volume = {122},
+       number = {2},
+        pages = {549-564},
+          doi = {10.1086/321167},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/0105231},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2001AJ....122..549V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2001ApJS..134....1V,
+       author = {{Vestergaard}, M. and {Wilkes}, B.~J.},
+        title = "{An Empirical Ultraviolet Template for Iron Emission in Quasars as Derived from I Zwicky 1}",
+      journal = {\apjs},
+     keywords = {Galaxies: Active, Galaxies: Individual: Alphanumeric: I Zw 1, Galaxies: Seyfert, Methods: Data Analysis, Galaxies: Quasars: Emission Lines, Astrophysics},
+         year = "2001",
+        month = "May",
+       volume = {134},
+       number = {1},
+        pages = {1-33},
+          doi = {10.1086/320357},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/0104320},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2001ApJS..134....1V},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2000ApJ...542..644B,
+       author = {{Bottorff}, Mark and {Ferland}, Gary and {Baldwin}, Jack and
+         {Korista}, Kirk},
+        title = "{Observational Constraints on the Internal Velocity Field of Quasar Emission-Line Clouds}",
+      journal = {\apj},
+     keywords = {Galaxies: Active, Galaxies: Nuclei, Galaxies: Quasars: Emission Lines},
+         year = "2000",
+        month = "Oct",
+       volume = {542},
+       number = {2},
+        pages = {644-654},
+          doi = {10.1086/317051},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2000ApJ...542..644B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2000ApJ...540L..13P,
+       author = {{Peterson}, Bradley M. and {Wandel}, Amri},
+        title = "{Evidence for Supermassive Black Holes in Active Galactic Nuclei from Emission-Line Reverberation}",
+      journal = {\apj},
+     keywords = {Galaxies: Active, Galaxies: Seyfert, Galaxies: Quasars: Emission Lines, Astrophysics},
+         year = "2000",
+        month = "Sep",
+       volume = {540},
+       number = {1},
+        pages = {L13-L16},
+          doi = {10.1086/312862},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/0007147},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2000ApJ...540L..13P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2000ApJ...536..284K,
+       author = {{Korista}, Kirk T. and {Goad}, Michael R.},
+        title = "{Locally Optimally Emitting Clouds and the Variable Broad Emission Line Spectrum of NGC 5548}",
+      journal = {\apj},
+     keywords = {Galaxies: Active, galaxies: individual (NGC 5548), Galaxies: Nuclei, Galaxies: Seyfert, Line: Formation, Astrophysics},
+         year = "2000",
+        month = "Jun",
+       volume = {536},
+       number = {1},
+        pages = {284-298},
+          doi = {10.1086/308930},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/0001399},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2000ApJ...536..284K},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2000ApJ...533..631K,
+       author = {{Kaspi}, Shai and {Smith}, Paul S. and {Netzer}, Hagai and {Maoz}, Dan and
+         {Jannuzi}, Buell T. and {Giveon}, Uriel},
+        title = "{Reverberation Measurements for 17 Quasars and the Size-Mass-Luminosity Relations in Active Galactic Nuclei}",
+      journal = {\apj},
+     keywords = {GALAXIES: ACTIVE, GALAXIES: QUASARS: EMISSION LINES, GALAXIES: QUASARS: GENERAL, Astrophysics},
+         year = "2000",
+        month = "Apr",
+       volume = {533},
+       number = {2},
+        pages = {631-649},
+          doi = {10.1086/308704},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/9911476},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2000ApJ...533..631K},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1999ApJ...524..707G,
+       author = {{Goad}, M.~R. and {Koratkar}, A.~P. and {Kim-Quijano}, J. and
+         {Korista}, K.~T. and {O'Brien}, P.~T. and {Axon}, D.~J.},
+        title = "{NGC 3516: The Long-Term Variability of the Active Galactic Nucleus Emission-Line and Absorption-Line Regions}",
+      journal = {\apj},
+     keywords = {GALAXIES: INDIVIDUAL: NGC NUMBER: NGC 3516, GALAXIES: SEYFERT, ULTRAVIOLET: GALAXIES, Galaxies: Individual: NGC Number: NGC 3516, Galaxies: Seyfert, Ultraviolet: Galaxies},
+         year = "1999",
+        month = "Oct",
+       volume = {524},
+       number = {2},
+        pages = {707-731},
+          doi = {10.1086/307826},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1999ApJ...524..707G},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1999ApJ...521L..95P,
+       author = {{Peterson}, Bradley M. and {Wandel}, Amri},
+        title = "{Keplerian Motion of Broad-Line Region Gas as Evidence for Supermassive Black Holes in Active Galactic Nuclei}",
+      journal = {\apj},
+     keywords = {GALAXIES: ACTIVE, GALAXIES: INDIVIDUAL: NGC NUMBER: NGC 5548, GALAXIES: SEYFERT, GALAXIES: QUASARS: EMISSION LINES, Galaxies: Active, Galaxies: Individual: NGC Number: NGC 5548, Galaxies: Seyfert, Galaxies: Quasars: Emission Lines, Astrophysics},
+         year = "1999",
+        month = "Aug",
+       volume = {521},
+       number = {2},
+        pages = {L95-L98},
+          doi = {10.1086/312190},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/9905382},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1999ApJ...521L..95P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1999ApJ...512L..95G,
+       author = {{Goad}, M.~R. and {Koratkar}, A.~P. and {Axon}, D.~J. and
+         {Korista}, K.~T. and {O'Brien}, P.~T.},
+        title = "{On the Absence of Broad Mg II Emission Line Variability in NGC 3516 during 1996}",
+      journal = {\apj},
+     keywords = {GALAXIES: INDIVIDUAL: NGC NUMBER: NGC 3516, GALAXIES: KINEMATICS AND DYNAMICS, GALAXIES: SEYFERT, Galaxies: Individual: NGC Number: NGC 3516, Galaxies: Kinematics and Dynamics, Galaxies: Seyfert, Astrophysics},
+         year = "1999",
+        month = "Feb",
+       volume = {512},
+       number = {2},
+        pages = {L95-L98},
+          doi = {10.1086/311884},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/9812351},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1999ApJ...512L..95G},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1998ApJ...494..125M,
+       author = {{Murray}, N. and {Chiang}, J.},
+        title = "{Photoionization of Disk Winds}",
+      journal = {\apj},
+     keywords = {ACCRETION, ACCRETION DISKS, LINE: FORMATION, GALAXIES: QUASARS: GENERAL, RADIATIVE TRANSFER, Accretion, Accretion Disks, Line: Formation, Galaxies: Quasars: General, Radiative Transfer},
+         year = "1998",
+        month = "Feb",
+       volume = {494},
+       number = {1},
+        pages = {125-138},
+          doi = {10.1086/305183},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1998ApJ...494..125M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1997MNRAS.292..679L,
+       author = {{Lyubarskii}, Yu. E.},
+        title = "{Flicker noise in accretion discs}",
+      journal = {\mnras},
+     keywords = {Accretion Disks, Noise Measurement, Mass Transfer, Luminosity, X Ray Sources, Computational Astrophysics, Radial Distribution, Astrophysics, ACCRETION, ACCRETION DISCS, X-RAYS: GENERAL},
+         year = "1997",
+        month = "Dec",
+       volume = {292},
+       number = {3},
+        pages = {679-685},
+          doi = {10.1093/mnras/292.3.679},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1997MNRAS.292..679L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1997ApJ...487..555K,
+       author = {{Korista}, Kirk and {Ferland}, Gary and {Baldwin}, Jack},
+        title = "{Do the Broad Emission Line Clouds See the Same Continuum That We See?}",
+      journal = {\apj},
+     keywords = {Line: Formation, Galaxies: Quasars: Emission Lines, Ultraviolet: Galaxies, Astrophysics},
+         year = "1997",
+        month = "Oct",
+       volume = {487},
+       number = {2},
+        pages = {555-559},
+          doi = {10.1086/304659},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/9704262},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1997ApJ...487..555K},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{1997ASPC..113...80B,
+       author = {{Baldwin}, J.~A.},
+        title = "{Broad Emission Lines in Active Galactic Nuclei}",
+    booktitle = {IAU Colloq. 159: Emission Lines in Active Galaxies: New Methods and Techniques},
+         year = "1997",
+       editor = {{Peterson}, Bradley M. and {Cheng}, Fu-Zhen and {Wilson}, Andrew S.},
+       series = {Astronomical Society of the Pacific Conference Series},
+       volume = {113},
+        month = "Jan",
+        pages = {80},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1997ASPC..113...80B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1997ApJS..108..401K,
+       author = {{Korista}, Kirk and {Baldwin}, Jack and {Ferland}, Gary and
+         {Verner}, Dima},
+        title = "{An Atlas of Computed Equivalent Widths of Quasar Broad Emission Lines}",
+      journal = {\apjs},
+     keywords = {ATLASES, GALAXIES: QUASARS: EMISSION LINES, Atlases, Galaxies: Quasars: Emission Lines, Astrophysics},
+         year = "1997",
+        month = "Jan",
+       volume = {108},
+       number = {2},
+        pages = {401-415},
+          doi = {10.1086/312966},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/9611220},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1997ApJS..108..401K},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1995ApJ...455L.119B,
+       author = {{Baldwin}, Jack and {Ferland}, Gary and {Korista}, Kirk and
+         {Verner}, Dima},
+        title = "{Locally Optimally Emitting Clouds and the Origin of Quasar Emission Lines}",
+      journal = {\apj},
+     keywords = {GALAXIES: QUASARS: EMISSION LINES, Astrophysics},
+         year = "1995",
+        month = "Dec",
+       volume = {455},
+        pages = {L119},
+          doi = {10.1086/309827},
+archivePrefix = {arXiv},
+       eprint = {astro-ph/9510080},
+ primaryClass = {astro-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1995ApJ...455L.119B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1995ApJ...450..559B,
+       author = {{Becker}, Robert H. and {White}, Richard L. and {Helfand}, David J.},
+        title = "{The FIRST Survey: Faint Images of the Radio Sky at Twenty Centimeters}",
+      journal = {\apj},
+     keywords = {RADIO CONTINUUM: GENERAL, SURVEYS},
+         year = "1995",
+        month = "Sep",
+       volume = {450},
+        pages = {559},
+          doi = {10.1086/176166},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1995ApJ...450..559B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1995MNRAS.275.1125O,
+       author = {{O'Brien}, P.~T. and {Goad}, M.~R. and {Gondhalekar}, P.~M.},
+        title = "{The luminosity-dependent broad-line region in active galactic nuclei}",
+      journal = {\mnras},
+     keywords = {RADIATIVE TRANSFER, TECHNIQUES: SPECTROSCOPIC, GALAXIES: ACTIVE, GALAXIES: NUCLEI, QUASARS: EMISSION LINES},
+         year = "1995",
+        month = "Aug",
+       volume = {275},
+       number = {4},
+        pages = {1125-1145},
+          doi = {10.1093/mnras/275.4.1125},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1995MNRAS.275.1125O},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1994ApJ...425..582R,
+       author = {{Reichert}, G.~A. and {Rodriguez-Pascual}, P.~M. and {Alloin}, D. and
+         {Clavel}, J. and {Crenshaw}, D.~M. and {Kriss}, G.~A. and
+         {Krolik}, J.~H. and {Malkan}, M.~A. and {Netzer}, H. and
+         {Peterson}, B.~M.},
+        title = "{Steps toward Determination of the Size and Structure of the Broad-Line Region in Active Galactic Nuclei. V. Variability of the Ultraviolet Continuum and Emission Lines of NGC 3783}",
+      journal = {\apj},
+     keywords = {Active Galactic Nuclei, Emission Spectra, Galactic Structure, Seyfert Galaxies, Size Determination, Ultraviolet Spectra, Faint Object Camera, Hubble Space Telescope, Iue, Light Curve, Power Spectra, Signal To Noise Ratios, Time Series Analysis, Transfer Functions, Astrophysics, GALAXIES: ACTIVE, GALAXIES: INDIVIDUAL NGC NUMBER: NGC 3783, GALAXIES: NUCLEI, GALAXIES: SEYFERT, ULTRAVIOLET: GALAXIES},
+         year = "1994",
+        month = "Apr",
+       volume = {425},
+        pages = {582},
+          doi = {10.1086/174007},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1994ApJ...425..582R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1993ApJ...418...11H,
+       author = {{Hamann}, Fred and {Ferland}, Gary},
+        title = "{The Chemical Evolution of QSOs and the Implications for Cosmology and Galaxy Formation}",
+      journal = {\apj},
+     keywords = {COSMOLOGY: THEORY, GALAXIES: ABUNDANCES, GALAXIES: EVOLUTION, LINE: FORMATION, GALAXIES: QUASARS: GENERAL},
+         year = "1993",
+        month = "Nov",
+       volume = {418},
+        pages = {11},
+          doi = {10.1086/173366},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1993ApJ...418...11H},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1993MNRAS.263..149G,
+       author = {{Goad}, M.~R. and {O'Brien}, P.~T. and {Gondhalekar}, P.~M.},
+        title = "{Response functions as diagnostics of the broad-line region in active galactic nuclei.}",
+      journal = {\mnras},
+     keywords = {Active Galactic Nuclei, Emission Spectra, Ionized Gases, Photoionization, Astronomical Models, Emissivity, Line Spectra, Molecular Clouds, Optical Thickness, Astrophysics},
+         year = "1993",
+        month = "Jul",
+       volume = {263},
+        pages = {149-167},
+          doi = {10.1093/mnras/263.1.149},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1993MNRAS.263..149G},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1993PASP..105..247P,
+       author = {{Peterson}, Bradley M.},
+        title = "{Reverberation Mapping of Active Galactic Nuclei}",
+      journal = {\pasp},
+     keywords = {Active Galactic Nuclei, Astronomical Maps, Emission Spectra, Reverberation, Astronomical Spectroscopy, Cross Correlation, Luminosity, Spectral Line Width, Transfer Functions, Astrophysics, GALAXIES: ACTIVE, GALAXIES: NUCLEI, METHODS: ANALYTICAL},
+         year = "1993",
+        month = "Mar",
+       volume = {105},
+        pages = {247},
+          doi = {10.1086/133140},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1993PASP..105..247P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1992AJ....104.2072T,
+       author = {{Tran}, Hien D. and {Osterbrock}, Donald E. and {Martel}, Andre},
+        title = "{Extreme Spectral Variations of the Seyfert Galaxy Markarian 993}",
+      journal = {\aj},
+     keywords = {Galactic Nuclei, Markarian Galaxies, Seyfert Galaxies, Balmer Series, Charge Coupled Devices, Emission Spectra, H Lines, Astronomy, GALAXIES: SEYFERT},
+         year = "1992",
+        month = "Dec",
+       volume = {104},
+        pages = {2072},
+          doi = {10.1086/116382},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1992AJ....104.2072T},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1992ApJS...80..109B,
+       author = {{Boroson}, Todd A. and {Green}, Richard F.},
+        title = "{The Emission-Line Properties of Low-Redshift Quasi-stellar Objects}",
+      journal = {\apjs},
+     keywords = {Emission Spectra, Line Spectra, Quasars, Seyfert Galaxies, Astronomical Spectroscopy, Computational Astrophysics, Principal Components Analysis, Red Shift, Sky Surveys (Astronomy), Astrophysics, GALAXIES: SEYFERT, GALAXIES: QUASARS: GENERAL, SURVEYS},
+         year = "1992",
+        month = "May",
+       volume = {80},
+        pages = {109},
+          doi = {10.1086/191661},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1992ApJS...80..109B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1991MNRAS.252..586L,
+       author = {{Lawrence}, A.},
+        title = "{The relative frequency of broad-lined and narrow-lined active galactic nuclei : implications for unified schemes.}",
+      journal = {\mnras},
+     keywords = {Active Galactic Nuclei, Radio Astronomy, Seyfert Galaxies, Spectral Line Width, Cosmic Dust, Forbidden Bands, Optical Thickness, Astrophysics},
+         year = "1991",
+        month = "Oct",
+       volume = {252},
+        pages = {586},
+          doi = {10.1093/mnras/252.4.586},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1991MNRAS.252..586L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1991ApJ...366...64C,
+       author = {{Clavel}, J. and {Reichert}, G.~A. and {Alloin}, D. and
+         {Crenshaw}, D.~M. and {Kriss}, G. and {Krolik}, J.~H. and
+         {Malkan}, M.~A. and {Netzer}, H. and {Peterson}, B.~M. and
+         {Wamsteker}, W.},
+        title = "{Steps toward Determination of the Size and Structure of the Broad-Line Region in Active Galactic Nuclei. I. an 8 Month Campaign of Monitoring NGC 5548 with IUE}",
+      journal = {\apj},
+     keywords = {Active Galactic Nuclei, Astronomical Spectroscopy, Galactic Structure, Iue, Seyfert Galaxies, Emission Spectra, Time Series Analysis, Ultraviolet Spectra, Variability, Astrophysics, GALAXIES: INDIVIDUAL NGC NUMBER: NGC 5548, GALAXIES: NUCLEI, GALAXIES: SEYFERT, ULTRAVIOLET: SPECTRA},
+         year = "1991",
+        month = "Jan",
+       volume = {366},
+        pages = {64},
+          doi = {10.1086/169540},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1991ApJ...366...64C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1989ApJ...346L..13E,
+       author = {{Evans}, Charles R. and {Kochanek}, Christopher S.},
+        title = "{The Tidal Disruption of a Star by a Massive Black Hole}",
+      journal = {\apj},
+     keywords = {Active Galactic Nuclei, Black Holes (Astronomy), Hydrodynamic Equations, Main Sequence Stars, Stellar Mass, Computational Astrophysics, Galactic Clusters, Stellar Luminosity, Astrophysics, BLACK HOLES, HYDRODYNAMICS, GALAXIES: NUCLEI, STARS: STELLAR DYNAMICS},
+         year = "1989",
+        month = "Nov",
+       volume = {346},
+        pages = {L13},
+          doi = {10.1086/185567},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1989ApJ...346L..13E},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1989ApJ...345..245C,
+       author = {{Cardelli}, Jason A. and {Clayton}, Geoffrey C. and {Mathis}, John S.},
+        title = "{The Relationship between Infrared, Optical, and Ultraviolet Extinction}",
+      journal = {\apj},
+     keywords = {Infrared Spectra, Interstellar Extinction, Ultraviolet Spectra, Visible Spectrum, Computational Astrophysics, Interstellar Matter, Iue, Astrophysics, INTERSTELLAR: MATTER, ULTRAVIOLET: SPECTRA},
+         year = "1989",
+        month = "Oct",
+       volume = {345},
+        pages = {245},
+          doi = {10.1086/167900},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1989ApJ...345..245C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1989ApJ...340..190G,
+       author = {{Goodrich}, Robert W.},
+        title = "{Spectropolarimetry and Variability of Seyfert 1.8 and 1.9 Galaxies}",
+      journal = {\apj},
+     keywords = {Active Galactic Nuclei, Astronomical Spectroscopy, Polarimetry, Seyfert Galaxies, Forbidden Transitions, H Alpha Line, H Beta Line, Infrared Astronomy Satellite, Interstellar Extinction, Optical Thickness, Astrophysics, GALAXIES: SEYFERT, POLARIZATION},
+         year = "1989",
+        month = "May",
+       volume = {340},
+        pages = {190},
+          doi = {10.1086/167384},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1989ApJ...340..190G},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@BOOK{1989agna.book.....O,
+       author = {{Osterbrock}, Donald E.},
+        title = "{Astrophysics of gaseous nebulae and active galactic nuclei}",
+         year = "1989",
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1989agna.book.....O},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1988Natur.333..523R,
+       author = {{Rees}, Martin J.},
+        title = "{Tidal disruption of stars by black holes of {}10$^{6}$-{}10$^{8}$ solar masses in nearby galaxies}",
+      journal = {\nat},
+     keywords = {Active Galactic Nuclei, Black Holes (Astronomy), Stellar Mass, Quasars, Red Shift, Star Distribution, Stellar Flares, Tides, Astrophysics},
+         year = "1988",
+        month = "Jun",
+       volume = {333},
+       number = {6173},
+        pages = {523-528},
+          doi = {10.1038/333523a0},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1988Natur.333..523R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1987ApJ...323..456M,
+       author = {{Mathews}, William G. and {Ferland}, Gary J.},
+        title = "{What Heats the Hot Phase in Active Nuclei?}",
+      journal = {\apj},
+     keywords = {Active Galactic Nuclei, Astronomical Spectroscopy, Compton Effect, Emission Spectra, Far Infrared Radiation, Interstellar Gas, Molecular Clouds, Photoionization, Quasars, Seyfert Galaxies, X Ray Spectra, Astrophysics, GALAXIES: NUCLEI, RADIATION MECHANISMS},
+         year = "1987",
+        month = "Dec",
+       volume = {323},
+        pages = {456},
+          doi = {10.1086/165843},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1987ApJ...323..456M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1982ApJ...255..419B,
+       author = {{Blandford}, R.~D. and {McKee}, C.~F.},
+        title = "{Reverberation mapping of the emission line regions of Seyfert galaxies and quasars.}",
+      journal = {\apj},
+     keywords = {Astronomical Spectroscopy, Emission Spectra, Quasars, Seyfert Galaxies, Spectral Line Width, Radial Velocity, Radiative Transfer, Spatial Distribution, Stellar Mass Accretion, Transfer Functions, Velocity Distribution, Astrophysics},
+         year = "1982",
+        month = "Apr",
+       volume = {255},
+        pages = {419-439},
+          doi = {10.1086/159843},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1982ApJ...255..419B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1981ApJ...250..478K,
+       author = {{Kwan}, J. and {Krolik}, J.~H.},
+        title = "{The formation of emission lines in quasars and Seyfert nuclei}",
+      journal = {\apj},
+     keywords = {Astronomical Models, Emission Spectra, Galactic Nuclei, Line Spectra, Quasars, Seyfert Galaxies, Balmer Series, Ionic Collisions, Iron, Lyman Spectra, Metal Ions, Optical Thickness, Photoionization, Plasma Heating, Spectral Energy Distribution, Astrophysics},
+         year = "1981",
+        month = "Nov",
+       volume = {250},
+        pages = {478-507},
+          doi = {10.1086/159395},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1981ApJ...250..478K},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1981ApJ...249..462O,
+       author = {{Osterbrock}, D.~E.},
+        title = "{Seyfert galaxies with weak broad H alpha emission lines}",
+      journal = {\apj},
+     keywords = {Emission Spectra, H Alpha Line, H Beta Line, Seyfert Galaxies, Spectrophotometry, Astronomical Photometry, Forbidden Bands, Ionization, Radio Galaxies, Spectrum Analysis, Tables (Data), Astronomy},
+         year = "1981",
+        month = "Oct",
+       volume = {249},
+        pages = {462-470},
+          doi = {10.1086/159306},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1981ApJ...249..462O},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1980ApJ...236..406N,
+       author = {{Netzer}, H.},
+        title = "{Excitation of MG II and Fe II lines in quasars and Seyfert galaxies}",
+      journal = {\apj},
+     keywords = {Iron, Line Spectra, Magnesium, Quasars, Seyfert Galaxies, Stellar Spectra, Abundance, Atomic Excitations, Equilibrium Equations, Mass Distribution, Optical Thickness, Photoionization, Stellar Models, Ultraviolet Astronomy, Astrophysics},
+         year = "1980",
+        month = "Mar",
+       volume = {236},
+        pages = {406-418},
+          doi = {10.1086/157757},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1980ApJ...236..406N},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1979RvMP...51..715D,
+       author = {{Davidson}, Kris and {Netzer}, Hagai},
+        title = "{The emission lines of quasars and similar objects}",
+      journal = {Reviews of Modern Physics},
+         year = "1979",
+        month = "Oct",
+       volume = {51},
+       number = {4},
+        pages = {715-766},
+          doi = {10.1103/RevModPhys.51.715},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1979RvMP...51..715D},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1979ApJ...232..659G,
+       author = {{Grandi}, S.~A. and {Phillips}, M.~M.},
+        title = "{Mg II lambda 2798 emission in QSOs, Seyfert 1 galaxies, and broad-line radio galaxies.}",
+      journal = {\apj},
+     keywords = {Emission Spectra, Magnesium, Quasars, Radio Galaxies, Seyfert Galaxies, Ultraviolet Radiation, Astronomical Catalogs, Clouds, H Beta Line, Spectral Line Width, Spectrophotometry, Astrophysics, Magnesium:Quasars, Magnesium:Radio Galaxies, Magnesium:Seyfert Galaxies, Quasars:Spectrophotometry, Radio Galaxies:Spectrophotometry, Seyfert Galaxies:Spectrophotometry},
+         year = "1979",
+        month = "Sep",
+       volume = {232},
+        pages = {659-669},
+          doi = {10.1086/157324},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1979ApJ...232..659G},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1972ApJ...175...11M,
+       author = {{MacAlpine}, Gordon M.},
+        title = "{Photoionization Models for the Emission-Line Regions of Quasi-Stellar and Related Objects}",
+      journal = {\apj},
+         year = "1972",
+        month = "Jul",
+       volume = {175},
+        pages = {11},
+          doi = {10.1086/151536},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/1972ApJ...175...11M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
